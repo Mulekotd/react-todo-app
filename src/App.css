@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin: 3rem 4rem;
+}
+
+input:focus {
+    outline: none;
+}
+
+li {
+    margin: 1rem;
+    list-style: none;
+}
+
+ul button {
+    margin-left: 0.5rem;
+}
